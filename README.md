@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Student Name** | Amit |
-| **Roll No.** | 2301010471 |
+| **Student Name** | Yash |
+| **Roll No.** | 2301010432 |
 | **Lab** | Lab 3: Monitoring, Logging & DevSecOps |
 | **Tools** | Terraform, Ansible, Prometheus, Grafana, Alertmanager, Elasticsearch, Logstash, Kibana, Filebeat, GitHub Actions, Bandit, pip-audit, Gitleaks, Trivy, k6, Selenium |
 
